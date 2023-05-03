@@ -1,0 +1,25 @@
+#{margin: 0;
+padding: 0;}
+
+.estudantes{ background-image: linear-gradient(rgb(185, 145, 52), rgb(48, 48, 130) );}
+.estudante-titulo{ 
+    text-align: center;
+    padding: 60px 0;
+}
+
+.estudante-div{
+    text-align: center;
+        display: flex;
+        padding: 16px 0;
+        justify-content: center;
+    display: grid;
+    grid-template-columns: 10% 20% 20% 20% 20% 10%;
+  
+}
+.estudante-imagem{ width: 55%;}
+
+.topico-estudante{
+   
+}
+
+h3{color: rgb(135, 33, 10);}
